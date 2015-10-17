@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Settings</string>
+    <string name="Options">Choose</string>
+
+    <string-array name="items">
+        <item>Thing</item>
+        <item>Another Thing</item>
+    </string-array>
+</resources>
