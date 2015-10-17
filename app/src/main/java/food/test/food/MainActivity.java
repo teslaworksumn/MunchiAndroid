@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
             tv.setText("Couldn't find Bluetooth adapter.");
         } else {
             tv.setText("Found Bluetooth Adapter!");
+            b.startDiscovery();
         }
     }
 
