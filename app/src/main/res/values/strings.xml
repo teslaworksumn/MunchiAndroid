@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="options">
+        <item>Thing1</item>
+        <item>Thing2</item>
+    </string-array>
+</resources>
